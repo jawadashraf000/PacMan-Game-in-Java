@@ -148,13 +148,10 @@ PacMan-Game-in-Java/
 
 ## Screenshots
 
-> Add your game screenshots here. Replace the placeholders below with actual image paths once uploaded to the repository.
 
 | Start Screen | Gameplay | Game Over |
 |---|---|---|
-| ![Start Screen](screenshots/start-screen.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/game-over.png) |
-
-> To add screenshots: create a `screenshots/` folder in the root of the repository, add your `.png` files, and update the paths above accordingly.
+| ![Start Screen](screenshots/startScreen.png) | ![Gameplay](screenshots/gamePlay.png) | ![Game Over](screenshots/gameOver.png) |
 
 ---
 
