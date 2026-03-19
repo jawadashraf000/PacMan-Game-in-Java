@@ -14,7 +14,7 @@
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen?style=for-the-badge)
 ![Levels](https://img.shields.io/badge/Levels-3-yellow?style=for-the-badge)
 
-**Three levels. Six ghosts. One final boss. Waka waka.**
+**Three levels. Six ghosts. One final boss. Waka waka!**
 
 [Get Started](#getting-started) · [How to Play](#how-to-play) · [Screenshots](#screenshots) · [Contribute](#contributing) · [Report a Bug](https://github.com/jawadashraf000/PacMan-Game-in-Java/issues)
 
@@ -381,6 +381,6 @@ If this project helped you learn or gave you something to build on, a star on th
 
 *Built with Java. No engine. No shortcuts. Just code.*
 
-**Waka waka.**
+**Waka waka!**
 
 </div>
