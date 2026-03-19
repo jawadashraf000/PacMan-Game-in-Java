@@ -351,11 +351,11 @@ Contributions are welcome — bug fixes, new features, balance improvements, or 
 
 ```bash
 # Fork the repository, then:
-git clone https://github.com/YOUR-USERNAME/PacMan-Game-in-Java.git
+git clone https://github.com/jawadashraf000/PacMan-Game-in-Java.git
 git checkout -b feature/your-feature-name
 
 # Make your changes, then:
-git commit -m "Add: clear description of change"
+git commit -m "Add description of change"
 git push origin feature/your-feature-name
 # Open a Pull Request on GitHub
 ```
