@@ -376,7 +376,7 @@ If this project helped you learn or gave you something to build on, a star on th
 <div align="center">
 
 ```
-  · · · · · · · · · · · · · · · · · · · </> · · · · · · · · · · · · · · · · · · · ·
+  · · · · · · · · · · · · · · · · · · · · · · · · · · · · </> · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 ```
 
 *Built with Java. No engine. No shortcuts. Just code.*
